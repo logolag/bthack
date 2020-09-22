@@ -26,7 +26,7 @@ Al termine della sfida bisognerà inserire in un archivio tutti i file da conseg
 ## Come comunicare con il Chatbot
 
 I motori del chatbot sono raggiungibili tramite delle API fornite dagli organizzatori.  
-Le API memorizzano il contesto della conversazione, in modo tale da ottenere un flusso di messaggi correlati tra di loro. Es: se si chiedono informazioni sul prodotto 'X', le successive domande saranno riferite al prodotto 'X' se si omette di specificarlo nei messaggi successivi.  
+Le API memorizzano il contesto della conversazione, in modo tale da ottenere un flusso di messaggi correlati tra di loro. Es: se si chiedono informazioni sul prodotto 'X', le successive domande saranno riferite al prodotto 'X', anche se si omette di specificarlo nei messaggi successivi.  
 Sarà possibile in qualsiasi momento resettare la conversazione e ricominciarne una nuova utilizzando il messaggio "reset".
 
 ### Documentazione API
