@@ -65,5 +65,5 @@ E nel caso in cui il chatbot voglia aggiungere dei suggerimenti per proseguire c
     ]
 }
 ```
-I primi 2 campi sono gli stessi che ha ricevuto nella richiesta API, mentre i successivi sono aggiunti dal chatbot e costituiscono rispettivamente la risposta alla domanda, un suggerimento da parte del chatbot, e le possibili risposte al suggerimento stesso.  
+I primi 2 campi sono gli stessi inviati nella richiesta API, mentre i successivi sono aggiunti dal chatbot e costituiscono rispettivamente la risposta alla domanda, un suggerimento da parte del chatbot, e le possibili risposte al suggerimento stesso.  
 Una delle "chatResponseOptions" può essere utilizzata per proseguire la conversazione e ricavare ulteriori informazioni senza che sia conteggiata come domanda fatta al chatbot ai fini della valutazione.
