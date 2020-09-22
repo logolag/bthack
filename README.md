@@ -1,5 +1,16 @@
 # Guida Hackathon
 
+## Regolamento
+
+le API del Chatbot sono programmate per rispondere a circa 10 chiamate ogni 30’. Superato il limite non si viene bloccati immediatamente, ma con sforamenti eccessivi si rischia un blocco temporaneo alle chiamate.
+il ChatBot Bticino accetta delle domande (lunghe tra i 2 e i 100 caratteri) e a seconda dell’argomento può proporre di approfondire alcuni temi a scelta dell’utente
+il ChatBot di ciascun team sarà valutato con un’unica esecuzione in cui potrà fare un massimo di 10 domande, le risposte affermative o negative date a domande poste dal ChatBot di Bticino non sono conteggiate come domande
+non si può accedere manualmente alla pagina web che contiene il ChatBot BTicino
+il ChatBot prodotto dai partecipanti dovrà rispettare i seguenti criteri:
+- essere eseguibile in ambiente Microsoft
+- contenere tutte le dipendenze necessarie al suo funzionamento o usare una tecnologia già compatibile
+- essere eseguibile su una VM predisposta dagli organizzatori
+
 ## Output richiesto
 
 L'obbiettivo finale è la costruzione di un tool in grado di dialogare con il Chtabot di BTicino, comprendendo il più possibile le sue risposte e sfruttandole per ottenere il maggior numero di informazioni possibili sulla nuova linea di prodotti Living Now.  
@@ -7,6 +18,10 @@ Il chatbot oltre a rispondere alle domande inviategli, può dare dei suggeriment
 Ai fini della valutazione dei risultati, è richiesto che il tool consegnato produca, una volta eseguito, un output testuale (file txt o similari) o un prompt, contenente la conversazione completa avvenuta con il chatbot.  
 Il tool eseguibile dovrà essere contenuto in un archivio Zip, contenente tutti i file necessari all'esecuzione, oltre che a istruzioni su come eseguirlo e quali dipendenze installare, nel caso in cui si adottino soluzioni che comprendono terze parti.  
 Sarà oggetto di valutazione anche la soluzione tecnica utilizzata, per questo verrà richiesta una presentazione di come si è arrivati ad ottenere il risultato.
+
+## Consegna dell'output
+
+Al termine della sfida bisognerà inserire in un archivio tutti i file da consegnare. L'archivio andrà caricato sullo spazio di archiviazione il cui link vi viene mandato via mail.
 
 ## Come comunicare con il Chatbot
 
