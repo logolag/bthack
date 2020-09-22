@@ -21,7 +21,7 @@ Sarà oggetto di valutazione anche la soluzione tecnica utilizzata, per questo v
 
 ## Consegna dell'output
 
-Al termine della sfida bisognerà inserire in un archivio tutti i file da consegnare. L'archivio andrà caricato sullo spazio di archiviazione il cui link vi viene mandato via mail.
+Al termine della sfida bisognerà inserire in un archivio tutti i file da consegnare. L'archivio andrà caricato sullo spazio di archiviazione il cui link vi verrà comunicato via mail dagli organizzatori.
 
 ## Come comunicare con il Chatbot
 
